@@ -39,7 +39,7 @@ This app was made with xCode with the iPhone 11 Pro as the basis
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 [Sriram Narayanan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
